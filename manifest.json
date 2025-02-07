@@ -1,0 +1,11 @@
+{
+    "name" : "Bio",
+    "version" : "1.0.0",
+    "description": "Bu proje egitim amacli yapilmistir",
+    "manifest_version":3,
+    "author":"Berke Yazılım",
+    "action": {
+        "default_popup":"index.html",
+        "default_icon" : "social_media.jpg"
+    }
+}
